@@ -46,6 +46,5 @@ Calculates averages, assigns grades, and identifies top-performing students. Thi
 ## 🎯 Purpose
 
 This project showcases practical Python skills and data analysis ability. It is suitable to include in **CVs, university applications, or portfolios**, especially for computer science, AI, or data analytics programs.
-Original dataset used for this project is not included due to privacy.
 
 
